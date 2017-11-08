@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [image5]: ./output_images/test1_warped.jpg
 [image6]: ./output_images/test1_sliding_window.jpg
 [image7]: ./output_images/test1_pipeline.jpg
-[video1]: ./project_video_output.mp4
+[video1]: ./project_video.mp4 "Video"
 
 ## Code location
 All code is located at the IPython notebook `./notebook.ipynb`.
@@ -111,7 +111,7 @@ Below is a picture of the output through the whole pipeline:
 
 ### Pipeline (video)
 
-![Output Video][video1]
+#### Here's a [link to my video result](./project_video_output.mp4)
 
 ---
 
