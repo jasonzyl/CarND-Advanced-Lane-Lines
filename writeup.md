@@ -14,12 +14,12 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./test_images/test1.jpg
-[image2]: ./test1_undistorted.jpg
-[image3]: ./test1_s_channel.jpg
-[image4]: ./test1_thresholded.jpg
-[image5]: ./test1_warped.jpg
-[image6]: ./test1_sliding_window.jpg
-[image7]: ./test1_pipeline.jpg
+[image2]: ./output_images/test1_undistorted.jpg
+[image3]: ./output_images/test1_s_channel.jpg
+[image4]: ./output_images/test1_thresholded.jpg
+[image5]: ./output_images/test1_warped.jpg
+[image6]: ./output_images/test1_sliding_window.jpg
+[image7]: ./output_images/test1_pipeline.jpg
 [video1]: ./project_video.mp4 "Video"
 
 ## Code location
